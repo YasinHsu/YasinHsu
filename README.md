@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on an Application
-- 🌱 I’m currently learning Developing
-- 👯 I’m looking to collaborate on Projects 
+- 🌱 I’m currently learning mobile Developing
+- 👯 I’ve experience at network & security
 - 💬 Ask me about Flutter
 - 😄 Pronouns: Student
 - ⚡ Fun fact: im Undergraduate
