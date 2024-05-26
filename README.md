@@ -1,15 +1,12 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on an Application
-- 🌱 I’m currently learning mobile Developing
-- 👯 I’m interested in network & security
-- 💬 Ask me about Flutter
+- 🔭 I’m currently working on a mobile Application
+- 🌱 I’m interested in network/security/...
 - 😄 Pronouns: Student
-- ⚡ Fun fact: im Undergraduate
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/yasinqabusi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yasinqabusi" height="30" width="40" /></a>
+<a href="https://instagram.com/yasinqabusi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yasinqabusi" height="30" width="40" /></a> <a href="https://linkedin.com/in/mohammadyasin-qabusi-4400022b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammadyasin-qabusi-4400022b5" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
